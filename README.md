@@ -18,6 +18,10 @@
     * H2
     * ModelMapper
     * Junit
+    * Swagger
     
 ## Como rodar?
     mvn spring-boot:run
+    
+    * Para ver a documentação da Api gerado pelo swagger assim que iniciar o serviço, acesse:
+        http://localhost:8080/swagger-ui.html
